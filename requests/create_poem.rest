@@ -2,9 +2,14 @@ POST http://localhost:5500/api/poems
 Content-Type: application/json
 
 {
-    "title":"VIII",
-    "content":[{"line":"ochito","author":"guy yard"}],
-    "archived": false
+  "title": "I",
+  "content": [
+    {
+      "line": "The art of losing isn’t hard to master",
+      "author": "Elizabeth Bishop"
+    }
+  ],
+  "archived": false
 }
 
 
