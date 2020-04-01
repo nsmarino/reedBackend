@@ -1,0 +1,8 @@
+PUT http://localhost:5500/api/poems/5e8346c94fe9423e085ee798
+Content-Type: application/json
+
+{
+    "title":"III",
+    "content":[{"line":"sent to archives","author":"guy yard"}],
+    "archived": true
+}
